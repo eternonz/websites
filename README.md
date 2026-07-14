@@ -5,4 +5,4 @@ One subdirectory per domain. Hosted via **Cloudflare Pages** (one Pages project 
 - `eterno.nz/` — ETERNO company site
 - `fleeting.nz/` — Fleeting photography portfolio
 
-Source projects live under `Harness/Projects/`. This repo holds built output only.
+Source projects live under `Harness/GitHub/Projects/`. This repo holds built output only.
